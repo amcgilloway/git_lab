@@ -1,3 +1,3 @@
-const greet = function(){
-    conole.log('Hello World!');
+const greet = function(name){
+    conole.log(`Hello ${name}`);
 }
