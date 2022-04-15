@@ -1,3 +1,3 @@
 const greet = function(){
-    conole.log('Hi World!');
+    conole.log('Hello World!');
 }
